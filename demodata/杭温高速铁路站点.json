@@ -1,0 +1,13 @@
+{
+  "type":"FeatureCollection",
+  "features":[
+    {"type":"Feature","properties":{"stationnames": "杭州西站", "linename": "杭温高速铁路", "lon": 119.992861, "lat": 30.304567, "line": "杭温高速铁路","dist":0.4946434640505541,"index":0,"location":289.31083472921694,"stationid":1,"groupname":"3112"},"geometry":{"type":"Point","coordinates":[119.992861,30.304567]}},
+    {"type":"Feature","properties":{"stationnames": "富阳西站", "linename": "杭温高速铁路", "lon": 119.867698, "lat": 30.05215, "line": "杭温高速铁路","dist":0.034920058043040894,"location":0.25696515503513834,"index":0,"stationid":2,"groupname":"2779"},"geometry":{"type":"Point","coordinates":[119.867698,30.05215]}},
+    {"type":"Feature","properties":{"stationnames": "桐庐东站", "linename": "杭温高速铁路", "lon": 119.770734, "lat": 29.861179, "line": "杭温高速铁路","dist":0.03984402152759841,"location":59.38901673548433,"index":0,"stationid":3,"groupname":"2639"},"geometry":{"type":"Point","coordinates":[119.770734,29.861179]}},
+    {"type":"Feature","properties":{"stationnames": "义乌站", "linename": "杭温高速铁路", "lon": 120.049915, "lat": 29.384124, "line": "杭温高速铁路","dist":0.04436628172785673,"location":117.14119580375248,"index":0,"stationid":4,"groupname":"239-5.0-3.0-2.0"},"geometry":{"type":"Point","coordinates":[120.049915,29.384124]}},
+    {"type":"Feature","properties":{"stationnames": "横店站", "linename": "杭温高速铁路", "lon": 120.270809, "lat": 29.22009, "line": "杭温高速铁路","dist":0.04436628172785673,"location":117.14119580375248,"index":0,"stationid":4,"groupname":"239-5.0-3.0-2.0"},"geometry":{"type":"Point","coordinates":[120.270809,29.22009]}},
+    {"type":"Feature","properties":{"stationnames": "磐安站", "linename": "杭温高速铁路", "lon": 120.350793, "lat": 28.914626, "line": "杭温高速铁路","dist":0.6078521938060946,"location":178.61065374178787,"index":0,"stationid":5},"geometry":{"type":"Point","coordinates":[120.350793,28.914626]}},
+    {"type":"Feature","properties":{"stationnames": "仙居站", "linename": "杭温高速铁路", "lon": 120.759882, "lat": 28.826204, "line": "杭温高速铁路","dist":0.38778783693649393,"location":150.26516045322586,"index":0,"stationid":6,"groupname":"2904"},"geometry":{"type":"Point","coordinates":[120.759882,28.826204]}},
+    {"type":"Feature","properties":{"stationnames": "温州北站", "linename": "杭温高速铁路", "lon": 120.635004, "lat": 28.059388, "line": "杭温高速铁路","dist":0.02128896860284821,"location":225.9712782095112,"index":0,"stationid":7},"geometry":{"type":"Point","coordinates":[120.635004,28.059388]}},
+    {"type":"Feature","properties":{"stationnames": "温州南站", "linename": "杭温高速铁路", "lon": 120.591823, "lat": 27.972028, "line": "杭温高速铁路","dist":0.79184629487381,"location":266.7340625730365,"index":0,"stationid":8},"geometry":{"type":"Point","coordinates":[120.591823,27.972028]}}
+   ]}
