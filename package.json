@@ -1,0 +1,68 @@
+{
+  "name": "react-pc",
+  "version": "0.1.0",
+  "private": true,
+  "homepage":".",
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@mapbox/mapbox-gl-draw": "^1.4.1",
+    "@nebula.gl/layers": "^1.0.4",
+    "@nebula.gl/overlays": "^1.0.4",
+    "@reduxjs/toolkit": "^1.9.3",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@urbica/react-map-gl": "^1.16.2",
+    "@urbica/react-map-gl-draw": "^0.3.5",
+    "add": "^2.0.6",
+    "antd": "^4.23.2",
+    "axios": "^1.3.5",
+    "deck.gl": "^8.8.11",
+    "echarts": "^5.4.1",
+    "js-export-excel": "^1.1.4",
+    "mapbox-gl": "^2.13.0",
+    "mobx": "^6.6.2",
+    "mobx-react-lite": "^3.4.0",
+    "react": "^18.2.0",
+    "react-bmapgl": "^0.2.16",
+    "react-dom": "^18.2.0",
+    "react-map-gl": "^7.0.21",
+    "react-map-gl-draw": "^1.0.4",
+    "react-mapbox-gl": "^5.1.1",
+    "react-mapbox-gl-draw": "^2.0.4",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.4.1",
+    "react-scripts": "5.0.1",
+    "redux": "^4.2.1",
+    "web-vitals": "^2.1.4",
+    "yarn": "^1.22.19"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@craco/craco": "^6.4.5",
+    "sass": "^1.55.0"
+  }
+}
